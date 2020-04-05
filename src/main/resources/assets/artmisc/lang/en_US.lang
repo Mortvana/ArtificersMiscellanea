@@ -1,0 +1,61 @@
+itemGroup.artMisc=Artificer's Miscellanea
+
+tile.artmisc.reactorOreDust0.name=Cadmium Ore Gravel
+tile.artmisc.reactorOreDust1.name=Indium Ore Gravel
+tile.artmisc.reactorOreDust2.name=Pitchblende Ore Gravel
+tile.artmisc.reactorOreDust3.name=Thorite Ore Gravel
+tile.artmisc.reactorOreDust5.name=Cadmium Ore Sand
+tile.artmisc.reactorOreDust6.name=Indium Ore Sand
+tile.artmisc.reactorOreDust7.name=Pitchblende Ore Sand
+tile.artmisc.reactorOreDust8.name=Thorite Ore Sand
+tile.artmisc.reactorOreDust10.name=Cadmium Ore Dust
+tile.artmisc.reactorOreDust11.name=Indium Ore Dust
+tile.artmisc.reactorOreDust12.name=Pitchblende Ore Dust
+tile.artmisc.reactorOreDust13.name=Thorite Ore Dust
+tile.artmisc.reactorOreDust15.name=Pitchblende Ore Gravel
+
+item.artmisc.fancyStone.0.name=Marble Stone
+item.artmisc.fancyStone.1.name=Basalt Stone
+
+item.artmisc.fancyStone.2.name=Basalt Stone
+item.artmisc.fancyStone.3.name=Marble Stone
+item.artmisc.fancyStone.4.name=Granite Stone
+item.artmisc.fancyStone.5.name=Limestone Stone
+item.artmisc.fancyStone.6.name=Shale Stone
+item.artmisc.fancyStone.7.name=Sandstone Stone
+item.artmisc.fancyStone.8.name=Pumice Stone
+item.artmisc.fancyStone.9.name=Slate Stone
+item.artmisc.fancyStone.10.name=Gneiss Stone
+item.artmisc.fancyStone.11.name=Peridotite Stone
+item.artmisc.fancyStone.12.name=Quartz Stone
+item.artmisc.fancyStone.13.name=Granulite Stone
+item.artmisc.fancyStone.14.name=Hornfel Stone
+item.artmisc.fancyStone.15.name=Migmatite Stone
+item.artmisc.fancyStone.16.name=Schist Stone
+item.artmisc.fancyStone.17.name=Onyx Stone
+item.artmisc.fancyStone.18.name=Opal Stone
+
+item.artmisc.fancyStone.19.name=Basalt Stone
+item.artmisc.fancyStone.20.name=Marble Stone
+item.artmisc.fancyStone.21.name=Gray Limestone Stone
+item.artmisc.fancyStone.22.name=Light Gray Limestone Stone
+item.artmisc.fancyStone.23.name=Brown Limestone Stone
+item.artmisc.fancyStone.24.name=Tan Limestone Stone
+item.artmisc.fancyStone.25.name=Red Limestone Stone
+item.artmisc.fancyStone.26.name=Blue Limestone Stone
+item.artmisc.fancyStone.27.name=Green Limestone Stone
+
+item.artmisc.general.dummy.name=Dummy
+item.artmisc.general.oreGravelCadmium.name=Broken Cadmium Ore
+item.artmisc.general.oreGravelIndium.name=Broken Indium Ore
+item.artmisc.general.oreGravelPitchblende.name=Broken Pitchblende Ore
+item.artmisc.general.oreGravelThorite.name=Broken Thorite Ore
+item.artmisc.general.oreSandCadmium.name=Crushed Cadmium Ore
+item.artmisc.general.oreSandIndium.name=Crushed Indium Ore
+item.artmisc.general.oreSandPitchblende.name=Crushed Pitchblende Ore
+item.artmisc.general.oreSandThorite.name=Crushed Thorite Ore
+item.artmisc.general.oreDustCadmium.name=Powdered Cadmium Ore
+item.artmisc.general.oreDustIndium.name=Powdered Indium Ore
+item.artmisc.general.oreDustPitchblende.name=Powdered Pitchblende Ore
+item.artmisc.general.oreDustThorite.name=Powdered Thorite Ore
+item.artmisc.general.oreGravelPitchblendeEnd.name=Broken Pitchblende Ore

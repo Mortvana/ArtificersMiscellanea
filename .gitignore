@@ -1,0 +1,40 @@
+#Ant Stuff
+build.xml
+/bin/
+/download/
+#Remove OS generated garbage
+*/.DS_Store
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+#Gradle Stuff
+/.gradle
+/build/
+/run/
+#IDEA files from Gradle
+out/
+.idea/
+/*.iml
+/*.ipr
+/*.iws
+#Vim backups
+*~
+#eclipse stuffs
+/.classpath
+/.project
+/.settings/
+#Possibly Redundant Stuff
+\.idea
+lib/*.jar
+lib/nope/*jar
+\bin
+.classpath
+.project
+.settings/
+
+src/main/java/mortvana/oldpfgcode/
+/null

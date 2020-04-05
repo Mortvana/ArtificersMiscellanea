@@ -1,0 +1,18 @@
+[
+	{
+		"modid": "ArtificersMiscellanea",
+		"name": "Artificer's Miscellanea",
+		"description": "",
+		"version": "v0.0.1-0",
+		"mcversion": "1.7.10",
+		"url": "",
+		"updateUrl": "",
+		"authors": "Mortvana",
+		"credits": [
+			"Drullkus- For some old textures that would have been used in old projects"
+		],
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
